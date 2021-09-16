@@ -3,7 +3,7 @@ Chapitre 11.3
 
 Fonctions pour simuler un combat.
 """
-
+#boom
 
 import random
 
